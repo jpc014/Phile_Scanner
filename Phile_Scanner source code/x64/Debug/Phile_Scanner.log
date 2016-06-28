@@ -1,0 +1,91 @@
+﻿  sha3.cpp
+  sha1.cpp
+  md5.cpp
+  Thread_Handler.cpp
+  Start_GUI.cpp
+f:\vs workspaces\se2016\se\phile_scanner\phile_scanner\phile_scanner\start_gui.cpp(80): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+f:\vs workspaces\se2016\se\phile_scanner\phile_scanner\phile_scanner\start_gui.cpp(119): warning C4244: 'argument': conversion from 'TCHAR' to 'const char', possible loss of data
+  Scanner.cpp
+  Reporter.cpp
+  Log_GUI.cpp
+  Hydra.cpp
+f:\vs workspaces\se2016\se\phile_scanner\phile_scanner\phile_scanner\hydra.cpp(40): warning C4804: '<': unsafe use of type 'bool' in operation
+  Hashr.cpp
+f:\vs workspaces\se2016\se\phile_scanner\phile_scanner\phile_scanner\hashr.cpp(125): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  End_GUI.cpp
+  During_GUI.cpp
+f:\vs workspaces\se2016\se\phile_scanner\phile_scanner\phile_scanner\during_gui.cpp(73): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Control.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Control.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+During_GUI.obj : warning LNK4006: "class std::vector<class pathItem,class std::allocator<class pathItem> > suspect_files_found" (?suspect_files_found@@3V?$vector@VpathItem@@V?$allocator@VpathItem@@@std@@@std@@A) already defined in Control.obj; second definition ignored
+End_GUI.obj : warning LNK4006: "class std::vector<class pathItem,class std::allocator<class pathItem> > suspect_files_found" (?suspect_files_found@@3V?$vector@VpathItem@@V?$allocator@VpathItem@@@std@@@std@@A) already defined in Control.obj; second definition ignored
+Hashr.obj : warning LNK4006: "class std::vector<class pathItem,class std::allocator<class pathItem> > suspect_files_found" (?suspect_files_found@@3V?$vector@VpathItem@@V?$allocator@VpathItem@@@std@@@std@@A) already defined in Control.obj; second definition ignored
+Log_GUI.obj : warning LNK4006: "class std::vector<class pathItem,class std::allocator<class pathItem> > suspect_files_found" (?suspect_files_found@@3V?$vector@VpathItem@@V?$allocator@VpathItem@@@std@@@std@@A) already defined in Control.obj; second definition ignored
+Reporter.obj : warning LNK4006: "class std::vector<class pathItem,class std::allocator<class pathItem> > suspect_files_found" (?suspect_files_found@@3V?$vector@VpathItem@@V?$allocator@VpathItem@@@std@@@std@@A) already defined in Control.obj; second definition ignored
+Scanner.obj : warning LNK4006: "class std::vector<class pathItem,class std::allocator<class pathItem> > suspect_files_found" (?suspect_files_found@@3V?$vector@VpathItem@@V?$allocator@VpathItem@@@std@@@std@@A) already defined in Control.obj; second definition ignored
+Start_GUI.obj : warning LNK4006: "class std::vector<class pathItem,class std::allocator<class pathItem> > suspect_files_found" (?suspect_files_found@@3V?$vector@VpathItem@@V?$allocator@VpathItem@@@std@@@std@@A) already defined in Control.obj; second definition ignored
+F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\Phile_Scanner.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+nana_x64.lib(any.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(any.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(basic_types.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(basic_types.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(charset.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(charset.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(datetime.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(datetime.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(deploy.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(deploy.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(platform_spec_windows.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(platform_spec_windows.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(filesystem.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(filesystem.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(basis.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(basis.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(basic_window.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(basic_window.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(bedrock_pi.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(bedrock_pi.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(bedrock_windows.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(bedrock_windows.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(color_schemes.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(color_schemes.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(drawer.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(drawer.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(element_store.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(element_store.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(events_operation.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(events_operation.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(native_window_interface.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(native_window_interface.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(window_layout.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(window_layout.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(window_manager.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(window_manager.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(dragger.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(dragger.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(drawing.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(drawing.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(effects.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(effects.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(element.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(element.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(filebox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(filebox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(layout_utility.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(layout_utility.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(msgbox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(msgbox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(notifier.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(notifier.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(place.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(place.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(programming_interface.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(programming_interface.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(screen.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(screen.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(timer.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(timer.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(tooltip.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(tooltip.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(button.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(button.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(checkbox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(checkbox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(combox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(combox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(float_listbox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(float_listbox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(form.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(form.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(label.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(label.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(listbox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(listbox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(menu.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(menu.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(panel.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(panel.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(picture.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(picture.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(progress.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(progress.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(scroll.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(scroll.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(text_editor.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(text_editor.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(spinbox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(spinbox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(tabbar.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(tabbar.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(textbox.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(textbox.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(widget.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(widget.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(wvl.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(wvl.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(internationalization.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(internationalization.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(image_process_provider.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(image_process_provider.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(native_paint_interface.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(native_paint_interface.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(graphics.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(graphics.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(image.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(image.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(pixel_buffer.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(pixel_buffer.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(text_renderer.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(text_renderer.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(dataexch.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(dataexch.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(platform.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(platform.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(pool.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(pool.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+nana_x64.lib(unicode_bidi.obj) : warning LNK4099: PDB 'nana.pdb' was not found with 'nana_x64.lib(unicode_bidi.obj)' or at 'F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\nana.pdb'; linking object as if no debug info
+  Phile_Scanner.vcxproj -> F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\Phile_Scanner.exe
+  Phile_Scanner.vcxproj -> F:\VS workspaces\SE2016\SE\Phile_Scanner\Phile_Scanner\x64\Debug\Phile_Scanner.pdb (Partial PDB)
